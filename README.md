@@ -40,6 +40,7 @@ Business Value: Crucial for Risk Management. It exposes the project's vulnerabil
 The Concept: Analysis of the "Whale Curve" – identifying which customers/segments generate the most profit vs. those that erode value.
 
 Business Value: visualizes the profitability distribution, helping to optimize the customer portfolio.
+<img width="1163" height="655" alt="image" src="https://github.com/user-attachments/assets/a643a3fc-9b1d-4fca-b27f-67f9e6e5ea6d" />
 
 📂 Project Structure
 The repository is organized as follows:
@@ -56,3 +57,9 @@ Download the Financial_Analysis.pbix file.
 Open in Power BI Desktop.
 
 Interact: Try moving the "Discount Rate" slider on the Project Profitability page to see how the NPV curve reacts in real-time.
+
+👤 Author Piotr Pszenny Aspiring Risk & Data Analyst | Gdańsk Tech
+
+
+
+
