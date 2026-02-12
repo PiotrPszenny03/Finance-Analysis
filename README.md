@@ -1,6 +1,8 @@
 Corporate Investment & Financial Projection Dashboard
 (Tutaj wstaw screen ze strony z NPV i wykresem cashflow)
 
+<img width="1165" height="654" alt="image" src="https://github.com/user-attachments/assets/5f63e3ad-9260-4299-9413-c6772b7b3f97" />
+
 🎯 Project Goal
 The objective of this project was to build a robust Financial Modeling tool to evaluate long-term investment projects. Unlike standard operational reporting, this dashboard focuses on Capital Budgeting and Risk Assessment.
 
@@ -32,11 +34,16 @@ Business Value: This allows management to instantly see if a project creates val
 2. Sensitivity Analysis (Risk Modeling)
 (Tutaj wstaw screen z tabelą macierzową - ten z suwakami)
 
+<img width="1190" height="672" alt="image" src="https://github.com/user-attachments/assets/e042b9ef-936d-4cf9-a246-a9e84f57d15f" />
+
 The Concept: A "What-If" simulation that answers the question: "What happens to our Revenue if sales volume drops by 10% and we increase discounts by 5%?".
 
 Business Value: Crucial for Risk Management. It exposes the project's vulnerability to external market shocks before any money is spent.
 
 3. Profitability & Margin Analysis
+
+<img width="1161" height="654" alt="image" src="https://github.com/user-attachments/assets/865d3337-6cef-4c9e-8710-3a2ecdb6a6f0" />
+
 The Concept: Analysis of the "Whale Curve" – identifying which customers/segments generate the most profit vs. those that erode value.
 
 Business Value: visualizes the profitability distribution, helping to optimize the customer portfolio.
@@ -57,8 +64,4 @@ Open in Power BI Desktop.
 
 Interact: Try moving the "Discount Rate" slider on the Project Profitability page to see how the NPV curve reacts in real-time.
 
-👤 Author Piotr Pszenny Aspiring Risk & Data Analyst | Gdańsk Tech
-
-
-
-
+👤 Author Piotr Pszenny Aspiring Risk & Data Analyst 
