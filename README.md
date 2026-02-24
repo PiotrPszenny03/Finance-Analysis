@@ -1,5 +1,5 @@
 Corporate Investment & Financial Projection Dashboard
-(Tutaj wstaw screen ze strony z NPV i wykresem cashflow)
+
 
 <img width="1165" height="654" alt="image" src="https://github.com/user-attachments/assets/5f63e3ad-9260-4299-9413-c6772b7b3f97" />
 
@@ -32,7 +32,7 @@ The Concept: I built a dynamic model that calculates the NPV profile based on a 
 Business Value: This allows management to instantly see if a project creates value (NPV > 0) or destroys it, and at what cost of capital the project becomes unviable (IRR).
 
 2. Sensitivity Analysis (Risk Modeling)
-(Tutaj wstaw screen z tabelą macierzową - ten z suwakami)
+
 
 <img width="1190" height="672" alt="image" src="https://github.com/user-attachments/assets/e042b9ef-936d-4cf9-a246-a9e84f57d15f" />
 
